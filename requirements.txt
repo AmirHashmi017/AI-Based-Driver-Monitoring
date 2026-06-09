@@ -1,0 +1,12 @@
+ultralytics
+opencv-python
+torch
+torchvision
+roboflow
+numpy
+pandas
+matplotlib
+streamlit
+Pillow
+seaborn
+python-dotenv

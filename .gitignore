@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.venv/
+venv/
+ENV/
+env/
+
+# YOLOv8 Specific
+runs/
+datasets/
+vigil-drive*/
+*.pt
+*.onnx
+*.engine
+
+# AI Lab Project Specific
+models/*.pt
+!models/placeholder.txt
+output_demo.mp4
+test_videos/
+
+# IDEs
+.vscode/
+.idea/
+.DS_Store
+
+# Data
+data/
